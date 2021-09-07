@@ -1,0 +1,15 @@
+.text {
+    text-align: center;
+}
+
+.text-container {
+    margin: 0 auto;
+    width: 60%;
+    
+}
+
+@include phone {
+    .text-container {
+        width: 85%; 
+    }
+}

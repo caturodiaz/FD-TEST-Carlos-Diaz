@@ -1,0 +1,61 @@
+{
+    "products": [
+        {
+            "id" : "01",
+            "name": "Cobertura de asiento GrandTex Series",
+            "price": 5300,
+            "discountPrice": 4500,
+            "image": "https://cld.partsimg.com/image/upload/d_noimage.jpg,h_210,w_210,c_pad,f_auto,q_auto,dpr_auto,e_sharpen/images/sddk0201d06cb_1.jpg"
+        },
+        {
+            "id" : "02",
+            "name": "Paragolpes delantero",
+            "price": 2300,
+            "discountPrice": 2000,
+            "image": "https://cld.partsimg.com/image/upload/d_noimage.jpg,h_210,w_210,c_pad,f_auto,q_auto,dpr_auto,e_sharpen/images/repf010308pq_1.jpg"
+        },
+        {
+            "id" : "03",
+            "name": "Paragolpes trasero con luces",
+            "price": 3400,
+            "discountPrice": 3000,
+            "image": "https://cld.partsimg.com/image/upload/d_noimage.jpg,h_210,w_210,c_pad,f_auto,q_auto,dpr_auto,e_sharpen/images/kit1-062117-80-a_1.jpg"
+        },
+        {
+            "id" : "04",
+            "name": "Paragolpes delantero con luces",
+            "price": 3600,
+            "discountPrice": 3200,
+            "image": "https://cld.partsimg.com/image/upload/d_noimage.jpg,h_210,w_210,c_pad,f_auto,q_auto,dpr_auto,e_sharpen/images/kit1-080918-19-b_1.jpg"
+        },
+        {
+            "id" : "05",
+            "name": "Volante",
+            "price": 1500,
+            "discountPrice": 1250,
+            "image": "https://cld.partsimg.com/image/upload/d_noimage.jpg,h_210,w_210,c_pad,f_auto,q_auto,dpr_auto,e_sharpen/images/927417_1.jpg"
+        },
+        {
+            "id" : "06",
+            "name": "Reemplazo de claxon",
+            "price": 1200,
+            "discountPrice": 1000,
+            "image": "https://cld.partsimg.com/image/upload/d_noimage.jpg,h_210,w_210,c_pad,f_auto,q_auto,dpr_auto,e_sharpen/images/rc50250001_1.jpg"
+        },
+        {
+            "id" : "07",
+            "name": "Retrovisor negro",
+            "price": 800,
+            "discountPrice": 750,
+            "image": "https://cld.partsimg.com/image/upload/d_noimage.jpg,h_210,w_210,c_pad,f_auto,q_auto,dpr_auto,e_sharpen/images/gm01_1.jpg"
+        },
+        {
+            "id" : "08",
+            "name": "Retrovisor gris",
+            "price": 800,
+            "discountPrice": 750,
+            "image": "https://cld.partsimg.com/image/upload/d_noimage.jpg,h_210,w_210,c_pad,f_auto,q_auto,dpr_auto,e_sharpen/images/ty20_1.jpg"
+        }
+    ]
+
+}
